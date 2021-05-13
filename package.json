@@ -10,13 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "aos": "^2.3.4",
-    "gulp-rename": "^2.0.0",
     "swiper": "^6.5.7"
   },
   "devDependencies": {
     "browser-sync": "^2.26.14",
     "gulp": "^4.0.2",
     "gulp-csso": "^4.0.1",
+    "gulp-rename": "^2.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemap": "^1.0.1",
     "gulp-sourcemaps": "^3.0.0",
